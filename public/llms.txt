@@ -1,0 +1,17 @@
+# Meiscope Blog
+
+> AIに読まれるWebサイトの作り方を実測・記録するブログ。GEO（生成エンジン最適化）とAI可読性をテーマに、具体的な診断・改善事例を発信する。
+
+## Articles
+
+- [JS依存という盲点：AIクローラーにあなたのサイトは見えているか](https://meiscope-blog.pages.dev/blog/article1-js-dependency)
+- [llms.txtは本当に効くのか：主要AIクローラーの実態](https://meiscope-blog.pages.dev/blog/article2-llms-txt)
+- [SEOとGEOは何が違うのか：技術的な整理](https://meiscope-blog.pages.dev/blog/article3-seo-vs-geo)
+- [AIに引用される土台を整える：6つの診断観点](https://meiscope-blog.pages.dev/blog/article4-foundation)
+- [引用される土台の限界と実測アプローチ](https://meiscope-blog.pages.dev/blog/article5-citation-measurement)
+- [AIクローラーのJS実行 実態調査：5億フェッチの現実](https://meiscope-blog.pages.dev/blog/article6-crawler-js-reality)
+
+## Pages
+
+- [Blog](https://meiscope-blog.pages.dev/blog)
+- [About](https://meiscope-blog.pages.dev/about)
